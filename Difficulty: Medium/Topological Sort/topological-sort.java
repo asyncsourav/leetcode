@@ -2,12 +2,11 @@ class Solution {
     public ArrayList<Integer> topoSort(int V, int[][] edges) {
         
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        int[] indegree = new int[V];
         
         for (int i = 0; i < V; i++) {
             adj.add(new ArrayList<>());
         }
-        
-        int[] indegree = new int[V];
         
         for (int[] edge : edges) {
             int u = edge[0];
@@ -17,6 +16,7 @@ class Solution {
             indegree[v]++;
         }
         
+        ArrayList<Integer> topo = new ArrayList<>();
         Queue<Integer> queue = new ArrayDeque<>();
         
         for (int i = 0; i < V; i++) {
@@ -24,8 +24,6 @@ class Solution {
                 queue.offer(i);
             }
         }
-        
-        ArrayList<Integer> topo = new ArrayList<>();
         
         while (!queue.isEmpty()) {
             int node = queue.poll();
@@ -35,9 +33,9 @@ class Solution {
                 indegree[neighbor]--;
                 
                 if (indegree[neighbor] == 0) {
-                    queue.offer(neighbor);
+                    queue.add(neighbor);
                 }
-            }
+            } 
         }
         
         return topo;
