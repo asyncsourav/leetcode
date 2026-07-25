@@ -152,6 +152,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sourav-357/leetcode/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/sourav-357/leetcode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
@@ -206,6 +207,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/sourav-357/leetcode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/sourav-357/leetcode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -273,6 +275,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sourav-357/leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sourav-357/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sourav-357/leetcode/tree/master/0210-course-schedule-ii) |
