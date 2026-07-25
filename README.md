@@ -69,6 +69,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sourav-357/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/sourav-357/leetcode/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/sourav-357/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/sourav-357/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sourav-357/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-two-city-scheduling](https://github.com/sourav-357/leetcode/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/sourav-357/leetcode/tree/master/1051-height-checker) |
@@ -259,6 +260,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sourav-357/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/sourav-357/leetcode/tree/master/0994-rotting-oranges) |
 | [1219-path-with-maximum-gold](https://github.com/sourav-357/leetcode/tree/master/1219-path-with-maximum-gold) |
 ## Bitmask
 |  |
@@ -281,6 +283,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0210-course-schedule-ii](https://github.com/sourav-357/leetcode/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0733-flood-fill](https://github.com/sourav-357/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/sourav-357/leetcode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sourav-357/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
