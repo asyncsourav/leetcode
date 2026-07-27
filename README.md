@@ -144,6 +144,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sourav-357/leetcode/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/sourav-357/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sourav-357/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourav-357/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -210,6 +211,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sourav-357/leetcode/tree/master/0010-regular-expression-matching) |
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/sourav-357/leetcode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
@@ -309,4 +311,8 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [0207-course-schedule](https://github.com/sourav-357/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sourav-357/leetcode/tree/master/0210-course-schedule-ii) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/sourav-357/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
