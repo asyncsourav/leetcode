@@ -1,14 +1,19 @@
+
+
+// first check the number of edge is less than the total number of connections
+// then check the number of groups (after connections) - and return the number of groups - 1 
+
 class Solution {
     public int makeConnected(int n, int[][] connections) {
 
-        if (connections.length < n - 1) 
+        if (connections.length < n -1)
             return -1;
-        
+
         List<List<Integer>> adj = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
             adj.add(new ArrayList<>());
-        }
+        }        
 
         for (int[] connection : connections) {
             adj.get(connection[0]).add(connection[1]);
@@ -16,24 +21,34 @@ class Solution {
         }
 
         boolean[] visited = new boolean[n];
-        int components = 0;
+        int group = 0;
 
         for (int i = 0; i < n; i++) {
             if (!visited[i]) {
-                components++;
-                dfs(adj, i, visited);
+                group++;
+                bfs(adj, visited, i);
             }
         }
 
-        return components - 1;
+        return group - 1;
     }
 
-    public void dfs(List<List<Integer>> adj, int node, boolean[] visited) {
-        visited[node] = true;
+    private void bfs(List<List<Integer>> adj, boolean[] visited, int node) {
+        Queue<Integer> queue = new ArrayDeque<>();
 
-        for (int neighbor : adj.get(node)) {
-            if (!visited[neighbor]) {
-                dfs(adj, neighbor, visited);
+        visited[node] = true;
+        queue.offer(node);
+
+        while (!queue.isEmpty()) {
+
+            int current = queue.poll();
+
+            for (int neighbor : adj.get(current)) {
+
+                if (!visited[neighbor]) {
+                    visited[neighbor] = true;
+                    queue.offer(neighbor);
+                }
             }
         }
     }
