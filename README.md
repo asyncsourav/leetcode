@@ -58,6 +58,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourav-357/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sourav-357/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sourav-357/leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/sourav-357/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
 | [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sourav-357/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -150,6 +151,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0045-jump-game-ii](https://github.com/sourav-357/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sourav-357/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourav-357/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/sourav-357/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
 | [0322-coin-change](https://github.com/sourav-357/leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/sourav-357/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -162,6 +164,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0037-sudoku-solver](https://github.com/sourav-357/leetcode/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/sourav-357/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/sourav-357/leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/sourav-357/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
@@ -218,6 +221,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0010-regular-expression-matching](https://github.com/sourav-357/leetcode/tree/master/0010-regular-expression-matching) |
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/sourav-357/leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/sourav-357/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/sourav-357/leetcode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -278,10 +282,12 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/sourav-357/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/sourav-357/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
 ## Breadth-First Search
 |  |
