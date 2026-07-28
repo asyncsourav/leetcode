@@ -216,6 +216,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sourav-357/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/sourav-357/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
