@@ -1,11 +1,15 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
         
-        Queue<int[]> queue = new ArrayDeque<>();
-        int fresh = 0;
-
         int m = grid.length;
         int n = grid[0].length;
+
+        Queue<int[]> queue = new ArrayDeque<>();
+        int[][] dir = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
+
+
+        int fresh = 0;
+        int minute = 0;
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
@@ -20,11 +24,8 @@ class Solution {
         }
 
         if (fresh == 0)
-            return 0;
+            return minute;
 
-        int minute = 0;
-        int[][] dir = {{0, 1}, {0, -1}, {-1, 0}, {1, 0}};
-        
         while (!queue.isEmpty() && fresh > 0) {
             int size = queue.size();
 
@@ -42,9 +43,9 @@ class Solution {
                         nr < m && nc < n &&
                         grid[nr][nc] == 1) {
                         
+                        grid[nr][nc] = 2;
                         queue.add(new int[]{nr, nc});
                         fresh -= 1;
-                        grid[nr][nc] = 2;
                     }
                 }
             }
