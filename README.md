@@ -379,4 +379,5 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/sourav-357/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/sourav-357/leetcode/tree/master/0184-department-highest-salary) |
+| [0511-game-play-analysis-i](https://github.com/sourav-357/leetcode/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
