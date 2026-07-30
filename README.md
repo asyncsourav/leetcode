@@ -53,6 +53,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sourav-357/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sourav-357/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sourav-357/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sourav-357/leetcode/tree/master/0040-combination-sum-ii) |
@@ -180,6 +181,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sourav-357/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sourav-357/leetcode/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/sourav-357/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/sourav-357/leetcode/tree/master/0133-clone-graph) |
@@ -293,6 +295,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sourav-357/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sourav-357/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
