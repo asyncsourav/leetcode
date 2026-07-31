@@ -97,6 +97,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1109-corporate-flight-bookings](https://github.com/sourav-357/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1219-path-with-maximum-gold](https://github.com/sourav-357/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/sourav-357/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sourav-357/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Stack
@@ -145,6 +146,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0367-valid-perfect-square](https://github.com/sourav-357/leetcode/tree/master/0367-valid-perfect-square) |
 | [0598-range-addition-ii](https://github.com/sourav-357/leetcode/tree/master/0598-range-addition-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/sourav-357/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Sorting
 |  |
@@ -234,10 +236,12 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sourav-357/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sourav-357/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -404,4 +408,5 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [1109-corporate-flight-bookings](https://github.com/sourav-357/leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
