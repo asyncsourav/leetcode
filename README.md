@@ -95,6 +95,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sourav-357/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-two-city-scheduling](https://github.com/sourav-357/leetcode/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/sourav-357/leetcode/tree/master/1051-height-checker) |
+| [1052-grumpy-bookstore-owner](https://github.com/sourav-357/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/sourav-357/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/sourav-357/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1219-path-with-maximum-gold](https://github.com/sourav-357/leetcode/tree/master/1219-path-with-maximum-gold) |
@@ -397,6 +398,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sourav-357/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1052-grumpy-bookstore-owner](https://github.com/sourav-357/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 ## Monotonic Queue
 |  |
 | ------- |
