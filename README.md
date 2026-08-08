@@ -147,6 +147,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0860-lemonade-change](https://github.com/sourav-357/leetcode/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/sourav-357/leetcode/tree/master/1029-two-city-scheduling) |
 | [1382-balance-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sourav-357/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
 | ------- |
@@ -200,6 +201,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sourav-357/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sourav-357/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sourav-357/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -248,6 +250,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0295-find-median-from-data-stream](https://github.com/sourav-357/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sourav-357/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sourav-357/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Design
 |  |
 | ------- |
@@ -282,6 +285,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0402-remove-k-digits](https://github.com/sourav-357/leetcode/tree/master/0402-remove-k-digits) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/sourav-357/leetcode/tree/master/0784-letter-case-permutation) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sourav-357/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Indexed Tree
 |  |
 | ------- |
