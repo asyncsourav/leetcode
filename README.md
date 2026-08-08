@@ -9,6 +9,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0096-unique-binary-search-trees](https://github.com/sourav-357/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sourav-357/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0690-employee-importance](https://github.com/sourav-357/leetcode/tree/master/0690-employee-importance) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sourav-357/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sourav-357/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -24,6 +25,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0207-course-schedule](https://github.com/sourav-357/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sourav-357/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sourav-357/leetcode/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/sourav-357/leetcode/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/sourav-357/leetcode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/sourav-357/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sourav-357/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -90,6 +92,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sourav-357/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0598-range-addition-ii](https://github.com/sourav-357/leetcode/tree/master/0598-range-addition-ii) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
+| [0690-employee-importance](https://github.com/sourav-357/leetcode/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/sourav-357/leetcode/tree/master/0733-flood-fill) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sourav-357/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/sourav-357/leetcode/tree/master/0860-lemonade-change) |
@@ -215,6 +218,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/sourav-357/leetcode/tree/master/0454-4sum-ii) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
+| [0690-employee-importance](https://github.com/sourav-357/leetcode/tree/master/0690-employee-importance) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
 ## Heap (Priority Queue)
 |  |
@@ -362,6 +366,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0301-remove-invalid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/sourav-357/leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/sourav-357/leetcode/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/sourav-357/leetcode/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/sourav-357/leetcode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/sourav-357/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/sourav-357/leetcode/tree/master/0994-rotting-oranges) |
