@@ -106,6 +106,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1052-grumpy-bookstore-owner](https://github.com/sourav-357/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/sourav-357/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/sourav-357/leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1140-stone-game-ii](https://github.com/sourav-357/leetcode/tree/master/1140-stone-game-ii) |
 | [1219-path-with-maximum-gold](https://github.com/sourav-357/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/sourav-357/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -163,6 +164,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0367-valid-perfect-square](https://github.com/sourav-357/leetcode/tree/master/0367-valid-perfect-square) |
 | [0598-range-addition-ii](https://github.com/sourav-357/leetcode/tree/master/0598-range-addition-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/sourav-357/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/sourav-357/leetcode/tree/master/1140-stone-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Sorting
@@ -204,6 +206,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0322-coin-change](https://github.com/sourav-357/leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/sourav-357/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0526-beautiful-arrangement](https://github.com/sourav-357/leetcode/tree/master/0526-beautiful-arrangement) |
+| [1140-stone-game-ii](https://github.com/sourav-357/leetcode/tree/master/1140-stone-game-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sourav-357/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sourav-357/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -447,6 +450,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [1094-car-pooling](https://github.com/sourav-357/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/sourav-357/leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1140-stone-game-ii](https://github.com/sourav-357/leetcode/tree/master/1140-stone-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Directed Acyclic Graph
 |  |
@@ -460,4 +464,16 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/sourav-357/leetcode/tree/master/0399-evaluate-division) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sourav-357/leetcode/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sourav-357/leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sourav-357/leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
