@@ -276,6 +276,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sourav-357/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [2276-count-integers-in-intervals](https://github.com/sourav-357/leetcode/tree/master/2276-count-integers-in-intervals) |
 ## Data Stream
 |  |
 | ------- |
@@ -316,6 +317,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/sourav-357/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [2276-count-integers-in-intervals](https://github.com/sourav-357/leetcode/tree/master/2276-count-integers-in-intervals) |
 ## Sweep Line
 |  |
 | ------- |
@@ -503,4 +505,8 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/sourav-357/leetcode/tree/master/0332-reconstruct-itinerary) |
+## Ordered Set
+|  |
+| ------- |
+| [2276-count-integers-in-intervals](https://github.com/sourav-357/leetcode/tree/master/2276-count-integers-in-intervals) |
 <!---LeetCode Topics End-->
