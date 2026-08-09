@@ -9,29 +9,28 @@ class Employee {
 
 class Solution {
     public int getImportance(List<Employee> employees, int id) {
-
-        Map<Integer, Employee> map = new HashMap<>();
+        
+        HashMap<Integer, Employee> map = new HashMap<>();
         for (Employee emp : employees) {
             map.put(emp.id, emp);
         }
 
         Employee start = map.get(id);
         boolean[] visited = new boolean[2001];
-
+        
         return dfs(start, visited, map);
     }
 
-    private int dfs(Employee emp, boolean[] visited,
-                     Map<Integer, Employee> map) {
-
-        if (visited[emp.id]) 
+    private int dfs(Employee node, boolean[] visited, HashMap<Integer, Employee> map) {
+        
+        if (visited[node.id])
             return 0;
 
-        visited[emp.id] = true;
-        int ans = emp.importance;
+        visited[node.id] = true;
+        int ans = node.importance;
 
-        for (Integer subId : emp.subordinates) {
-            ans += dfs(map.get(subId), visited, map);
+        for (Integer SubId : node.subordinates) {
+            ans += dfs(map.get(SubId), visited, map);
         }
 
         return ans;
