@@ -25,6 +25,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0207-course-schedule](https://github.com/sourav-357/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sourav-357/leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sourav-357/leetcode/tree/master/0310-minimum-height-trees) |
+| [0332-reconstruct-itinerary](https://github.com/sourav-357/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/sourav-357/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sourav-357/leetcode/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/sourav-357/leetcode/tree/master/0690-employee-importance) |
@@ -85,6 +86,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0239-sliding-window-maximum](https://github.com/sourav-357/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/sourav-357/leetcode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/sourav-357/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0332-reconstruct-itinerary](https://github.com/sourav-357/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/sourav-357/leetcode/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/sourav-357/leetcode/tree/master/0406-queue-reconstruction-by-height) |
@@ -175,6 +177,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0215-kth-largest-element-in-an-array](https://github.com/sourav-357/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/sourav-357/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/sourav-357/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0332-reconstruct-itinerary](https://github.com/sourav-357/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/sourav-357/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/sourav-357/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -233,6 +236,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0215-kth-largest-element-in-an-array](https://github.com/sourav-357/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sourav-357/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/sourav-357/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/sourav-357/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sourav-357/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -293,6 +297,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0282-expression-add-operators](https://github.com/sourav-357/leetcode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sourav-357/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/sourav-357/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/sourav-357/leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/sourav-357/leetcode/tree/master/0402-remove-k-digits) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
@@ -396,6 +401,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0207-course-schedule](https://github.com/sourav-357/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sourav-357/leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sourav-357/leetcode/tree/master/0310-minimum-height-trees) |
+| [0332-reconstruct-itinerary](https://github.com/sourav-357/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/sourav-357/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sourav-357/leetcode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/sourav-357/leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -480,4 +486,16 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sourav-357/leetcode/tree/master/1140-stone-game-ii) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/sourav-357/leetcode/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/sourav-357/leetcode/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/sourav-357/leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
