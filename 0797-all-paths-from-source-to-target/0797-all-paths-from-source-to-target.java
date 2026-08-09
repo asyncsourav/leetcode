@@ -5,23 +5,24 @@ class Solution {
         List<Integer> path = new ArrayList<>();
 
         path.add(0);
-        dfs(ans, path, graph, 0);
+        backtrack(graph, ans, path, 0);
         return ans;
     }
 
-    public void dfs(List<List<Integer>> ans, 
-                    List<Integer> path, 
-                    int[][] graph, int node) {
-                        
+    private void backtrack(int[][] graph, 
+                            List<List<Integer>> ans,
+                            List<Integer> path,
+                            int node) {
+        
         if (node == graph.length - 1) {
-            ans.add(new ArrayList(path));
+            ans.add(new ArrayList<>(path));
             return;
         }
 
-        for (int element : graph[node]) {
-            path.add(element);
-            dfs(ans, path, graph, element);
+        for (int num : graph[node]) {
+            path.add(num);
+            backtrack(graph, ans, path, num);
             path.remove(path.size() - 1);
-        }     
+        }
     }
 }
