@@ -24,6 +24,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sourav-357/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sourav-357/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/sourav-357/leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/sourav-357/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sourav-357/leetcode/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/sourav-357/leetcode/tree/master/0690-employee-importance) |
@@ -370,6 +371,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0207-course-schedule](https://github.com/sourav-357/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sourav-357/leetcode/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/sourav-357/leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/sourav-357/leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/sourav-357/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sourav-357/leetcode/tree/master/0547-number-of-provinces) |
@@ -393,6 +395,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0133-clone-graph](https://github.com/sourav-357/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/sourav-357/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sourav-357/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/sourav-357/leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/sourav-357/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sourav-357/leetcode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/sourav-357/leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -405,6 +408,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [0207-course-schedule](https://github.com/sourav-357/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sourav-357/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/sourav-357/leetcode/tree/master/0310-minimum-height-trees) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sourav-357/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Recursion
