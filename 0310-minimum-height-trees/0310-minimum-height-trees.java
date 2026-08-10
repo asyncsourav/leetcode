@@ -1,52 +1,49 @@
 class Solution {
     public List<Integer> findMinHeightTrees(int n, int[][] edges) {
-        
         if (n == 1) return List.of(0);
         
         List<List<Integer>> adj = new ArrayList<>();
+
         for (int i = 0; i < n; i++) {
             adj.add(new ArrayList<>());
         }
 
-        for (int i = 0; i < edges.length; i++) {
-            int u = edges[i][0];
-            int v = edges[i][1];
-
-            adj.get(u).add(v);
-            adj.get(v).add(u);
+        for (int[] num : edges) {
+            adj.get(num[0]).add(num[1]);
+            adj.get(num[1]).add(num[0]);
         }
-        
+
         int[] degree = new int[n];
         for (int i = 0; i < n; i++) {
             degree[i] = adj.get(i).size();
         }
 
         Queue<Integer> queue = new ArrayDeque<>();
+        
         for (int i = 0; i < n; i++) {
-            if (degree[i] == 1) 
+            if (degree[i] == 1)
                 queue.offer(i);
         }
 
-        int remainingNodes = n;
+        int remain = n;
 
-        while (remainingNodes > 2) {
+        while (remain > 2) {
             int size = queue.size();
-            remainingNodes -= size;
+            remain = remain - size;
 
-            while (size-- > 0) {
+            for (int i = 0; i < size; i++) {
                 int node = queue.poll();
 
-                for (int nei : adj.get(node)) {
-                    degree[nei]--;
+                for (int num : adj.get(node)) {
+                    degree[num]--;
 
-                    if (degree[nei] == 1)
-                        queue.offer(nei);
+                    if (degree[num] == 1)
+                        queue.offer(num);
                 }
             }
         }
 
         List<Integer> ans = new ArrayList<>();
-
         while (!queue.isEmpty()) {
             ans.add(queue.poll());
         }
