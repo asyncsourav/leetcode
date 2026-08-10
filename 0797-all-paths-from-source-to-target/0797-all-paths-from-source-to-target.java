@@ -5,14 +5,13 @@ class Solution {
         List<Integer> path = new ArrayList<>();
 
         path.add(0);
-        backtrack(graph, ans, path, 0);
+        backtrack(ans, path, 0, graph);
         return ans;
     }
 
-    private void backtrack(int[][] graph, 
-                            List<List<Integer>> ans,
+    private void backtrack(List<List<Integer>> ans,
                             List<Integer> path,
-                            int node) {
+                            int node, int[][] graph) {
         
         if (node == graph.length - 1) {
             ans.add(new ArrayList<>(path));
@@ -21,7 +20,7 @@ class Solution {
 
         for (int num : graph[node]) {
             path.add(num);
-            backtrack(graph, ans, path, num);
+            backtrack(ans, path, num, graph);
             path.remove(path.size() - 1);
         }
     }
