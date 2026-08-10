@@ -3,32 +3,32 @@ class Solution {
         
         HashMap<String, PriorityQueue<String>> adj = new HashMap<>();
 
-        for (List<String> ticket : tickets) {
-            String from = ticket.get(0);
-            String to = ticket.get(1);
+        for (List<String> str : tickets) {
+            String from = str.get(0);
+            String to = str.get(1);
 
-            adj.putIfAbsent(from, new PriorityQueue<>());
+            adj.putIfAbsent(from, new PriorityQueue<String>());
             adj.get(from).offer(to);
         }
 
         List<String> ans = new ArrayList<>();
         dfs("JFK", adj, ans);
-        
+
         Collections.reverse(ans);
         return ans;
     }
 
-    private void dfs(String airport, 
+    private void dfs(String node,
                     HashMap<String, PriorityQueue<String>> adj,
                     List<String> ans) {
         
-        PriorityQueue<String> destinations = adj.get(airport);
+        PriorityQueue<String> destinations = adj.get(node);
 
         while (destinations != null && !destinations.isEmpty()) {
             String next = destinations.poll();
             dfs(next, adj, ans);
         }
 
-        ans.add(airport);
+        ans.add(node);
     }
 }
