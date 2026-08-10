@@ -17,22 +17,22 @@ class Solution {
 
         Employee start = map.get(id);
         boolean[] visited = new boolean[2001];
-        
-        return dfs(start, visited, map);
+
+        return dfs(start, map, visited);
     }
 
-    private int dfs(Employee node, boolean[] visited, HashMap<Integer, Employee> map) {
-        
-        if (visited[node.id])
+    private int dfs(Employee start, HashMap<Integer, Employee> map, boolean[] visited) {
+
+        if (visited[start.id]) 
             return 0;
 
-        visited[node.id] = true;
-        int ans = node.importance;
+        visited[start.id] = true;
+        int sum = start.importance;
 
-        for (Integer SubId : node.subordinates) {
-            ans += dfs(map.get(SubId), visited, map);
-        }
+        for (int sid : start.subordinates) {
+            sum += dfs(map.get(sid), map, visited);
+        } 
 
-        return ans;
+        return sum;
     }
 }
