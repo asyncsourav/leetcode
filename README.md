@@ -205,6 +205,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sourav-357/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sourav-357/leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/sourav-357/leetcode/tree/master/0045-jump-game-ii) |
@@ -268,6 +269,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sourav-357/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourav-357/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/sourav-357/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sourav-357/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -296,6 +298,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sourav-357/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sourav-357/leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
@@ -512,4 +515,8 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [2276-count-integers-in-intervals](https://github.com/sourav-357/leetcode/tree/master/2276-count-integers-in-intervals) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sourav-357/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
