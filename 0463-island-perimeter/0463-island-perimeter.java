@@ -1,38 +1,28 @@
 class Solution {
     public int islandPerimeter(int[][] grid) {
 
-        for (int i = 0; i < grid.length; i++) {
-            for (int j = 0; j < grid[0].length; j++) {
+        int rows = grid.length;
+        int cols = grid[0].length;
 
-                if (grid[i][j] == 1) {
-                    return dfs(grid, i, j);
+        int perimeter = 0;
+
+        for (int r = 0; r < rows; r++) {
+            for (int c = 0; c < cols; c++) {
+
+                if (grid[r][c] == 1) {
+                    perimeter += 4;
+
+                    if (r > 0 && grid[r - 1][c] == 1) {
+                        perimeter -= 2;
+                    }
+                    
+                    if (c > 0 && grid[r][c - 1] == 1) {
+                        perimeter -= 2;
+                    }
                 }
             }
         }
 
-        return 0;
-    }
-
-    private int dfs(int[][] grid, int r, int c) {
-
-        if (r < 0 || c < 0 ||
-            r >= grid.length || c >= grid[0].length) {
-            return 1;
-        }
-
-        if (grid[r][c] == 0) {
-            return 1;
-        }
-
-        if (grid[r][c] == -1) {
-            return 0;
-        }
-
-        grid[r][c] = -1;
-
-        return dfs(grid, r + 1, c)
-             + dfs(grid, r - 1, c)
-             + dfs(grid, r, c + 1)
-             + dfs(grid, r, c - 1);
+        return perimeter;  
     }
 }
