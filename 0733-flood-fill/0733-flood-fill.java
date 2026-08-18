@@ -3,27 +3,28 @@ class Solution {
         
         int original = image[sr][sc];
 
-        if (original == color) {
+        if (original == color)
             return image;
-        }
 
         dfs(image, sr, sc, color, original);
         return image;
     }
 
-    private void dfs(int[][] image, int sr, int sc, int color, int original) {
+    private void dfs(int[][] img, int sr, int sc, int color, int original) {
 
         if (sr < 0 || sc < 0 ||
-            sr >= image.length ||
-            sc >= image[0].length ||
-            image[sr][sc] != original) {
+            sr >= img.length ||  
+            sc >= img[0].length ||
+            img[sr][sc] != original) {
+
             return;
         }
 
-        image[sr][sc] = color;
-        dfs(image, sr - 1, sc, color, original); 
-        dfs(image, sr + 1, sc, color, original); 
-        dfs(image, sr, sc - 1, color, original); 
-        dfs(image, sr, sc + 1, color, original); 
+        img[sr][sc] = color;
+
+        dfs(img, sr + 1, sc, color, original);
+        dfs(img, sr - 1, sc, color, original);
+        dfs(img, sr, sc + 1, color, original);
+        dfs(img, sr, sc - 1, color, original);
     }
 }
