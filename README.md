@@ -419,6 +419,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0547-number-of-provinces](https://github.com/sourav-357/leetcode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/sourav-357/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sourav-357/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sourav-357/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/sourav-357/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sourav-357/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -480,6 +481,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/sourav-357/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sourav-357/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
