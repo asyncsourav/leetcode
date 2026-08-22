@@ -116,6 +116,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1094-car-pooling](https://github.com/sourav-357/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/sourav-357/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/sourav-357/leetcode/tree/master/1140-stone-game-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/sourav-357/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/sourav-357/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/sourav-357/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -224,6 +225,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0526-beautiful-arrangement](https://github.com/sourav-357/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/sourav-357/leetcode/tree/master/0542-01-matrix) |
 | [1140-stone-game-ii](https://github.com/sourav-357/leetcode/tree/master/1140-stone-game-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/sourav-357/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sourav-357/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sourav-357/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -373,6 +375,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0695-max-area-of-island](https://github.com/sourav-357/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sourav-357/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sourav-357/leetcode/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/sourav-357/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/sourav-357/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/sourav-357/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 ## Bitmask
@@ -409,6 +412,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0733-flood-fill](https://github.com/sourav-357/leetcode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/sourav-357/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/sourav-357/leetcode/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/sourav-357/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sourav-357/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sourav-357/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
