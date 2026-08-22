@@ -1,14 +1,16 @@
 class Solution {
     public int maxDistance(int[][] grid) {
+        
+        int m = grid.length;
+        int n = grid[0].length;
 
-        int n = grid.length;
         Queue<int[]> queue = new ArrayDeque<>();
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
 
                 if (grid[i][j] == 1) {
-                    queue.offer(new int[]{i, j});
+                    queue.add(new int[]{i, j});
                 }
             }
         }
@@ -24,9 +26,7 @@ class Solution {
 
         int distance = -1;
 
-        // Multi-source BFS from all land cells.
         while (!queue.isEmpty()) {
-
             int size = queue.size();
             distance++;
 
@@ -36,13 +36,12 @@ class Solution {
                 int r = curr[0];
                 int c = curr[1];
 
-                for (int[] dir : dirs) {
+                for (int[] d : dirs) {
+                    int nr = r + d[0];
+                    int nc = c + d[1];
 
-                    int nr = r + dir[0];
-                    int nc = c + dir[1];
-
-                    if (nr >= 0 && nr < n &&
-                        nc >= 0 && nc < n &&
+                    if (nr >= 0 && nr < m &&
+                        nc >= 0 && nc < n && 
                         grid[nr][nc] == 0) {
 
                         grid[nr][nc] = 1;
