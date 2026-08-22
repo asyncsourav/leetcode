@@ -37,8 +37,8 @@ class Solution {
 
                     if (nr >= 0 && nr < n &&
                         nc >= 0 && nc < n &&
-                        grid[nr][nc] == 0) 
-                    {
+                        grid[nr][nc] == 0) {
+                            
                         grid[nr][nc] = 1; 
                         queue.offer(new int[]{nr, nc});
                     }
