@@ -16,7 +16,7 @@ class Solution {
             { 1, -1}, { 1, 0}, { 1, 1}
         };
 
-        int pathLength = 1;
+        int steps = 1;
 
         while (!queue.isEmpty()) {
             int size = queue.size();
@@ -28,7 +28,7 @@ class Solution {
                 int c = curr[1];
 
                 if (r == n - 1 && c == n - 1) {
-                    return pathLength;
+                    return steps;
                 }
 
                 for (int[] d : dir) {
@@ -44,7 +44,7 @@ class Solution {
                     }
                 }
             }
-            pathLength++;
+            steps++;
         }
         return -1;
     }
