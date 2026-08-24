@@ -6,13 +6,14 @@ class Solution {
 
         path.add(0);
         backtrack(ans, path, 0, graph);
+
         return ans;
     }
 
     private void backtrack(List<List<Integer>> ans,
                             List<Integer> path,
                             int node, int[][] graph) {
-        
+
         if (node == graph.length - 1) {
             ans.add(new ArrayList<>(path));
             return;
