@@ -22,10 +22,9 @@ class Solution {
             return true;
 
         if (row < 0 || col < 0 ||
-            row >= board.length || col >= board[0].length)
-            return false;
-
-        if (board[row][col] != word.charAt(index))
+            row >= board.length || col >= board[0].length ||
+            board[row][col] != word.charAt(index))
+            
             return false;
 
         char temp = board[row][col];
