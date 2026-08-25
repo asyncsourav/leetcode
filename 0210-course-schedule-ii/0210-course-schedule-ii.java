@@ -1,50 +1,45 @@
 class Solution {
-    public int[] findOrder(int numCourses, int[][] prerequisites) {
-
+    public int[] findOrder(int n, int[][] pre) {
+        
+        int[] ind = new int[n];
         List<List<Integer>> adj = new ArrayList<>();
 
-        for (int i = 0; i < numCourses; i++) {
+        for (int i = 0; i < n; i++) {
             adj.add(new ArrayList<>());
         }
 
-        int[] indegree = new int[numCourses];
+        for (int[] num : pre) {
+            int u = num[0];
+            int v = num[1];
 
-        for (int[] pre : prerequisites) {
-            int course = pre[0];
-            int prerequisite = pre[1];
-
-            adj.get(prerequisite).add(course);
-            indegree[course]++;
+            adj.get(v).add(u);
+            ind[u]++;
         }
 
-        Queue<Integer> queue = new LinkedList<>();
+        Queue<Integer> queue = new ArrayDeque<>();
 
-        for (int i = 0; i < numCourses; i++) {
-            if (indegree[i] == 0) {
-                queue.offer(i);
+        for (int i = 0; i < n; i++) {
+            if (ind[i] == 0) {
+                queue.add(i);
             }
         }
 
-        int[] order = new int[numCourses];
-        int index = 0;
+        int[] ans = new int[n];
+        int idx = 0;
 
-        while (!queue.isEmpty()) {
-            int node = queue.poll();
-            order[index++] = node;
+        while(!queue.isEmpty()) {
+            int curr = queue.poll();
+            ans[idx++] = curr;
 
-            for (int neighbor : adj.get(node)) {
-                indegree[neighbor]--;
+            for (int num : adj.get(curr)) {
+                ind[num]--;
 
-                if (indegree[neighbor] == 0) {
-                    queue.offer(neighbor);
+                if (ind[num] == 0) {
+                    queue.offer(num);
                 }
             }
         }
 
-        if (index != numCourses) {
-            return new int[0];
-        }
-
-        return order;
+        return (idx == n) ? ans : new int[0];
     }
 }
