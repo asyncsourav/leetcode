@@ -15,14 +15,12 @@ class Solution {
 
     private void dfs(List<List<Integer>> rooms, boolean[] vis, int node) {
 
-        if (vis[node]) {
-            return;
-        }
-
         vis[node] = true;
 
         for (int room : rooms.get(node)) {
-            dfs(rooms, vis, room);
+            if (!vis[room]) {
+                dfs(rooms, vis, room);
+            }
         }
     }
 }
