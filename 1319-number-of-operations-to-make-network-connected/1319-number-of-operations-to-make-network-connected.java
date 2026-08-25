@@ -40,7 +40,6 @@ class Solution {
         queue.offer(node);
 
         while (!queue.isEmpty()) {
-
             int current = queue.poll();
 
             for (int neighbor : adj.get(current)) {
