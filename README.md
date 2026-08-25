@@ -30,6 +30,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0399-evaluate-division](https://github.com/sourav-357/leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/sourav-357/leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/sourav-357/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/sourav-357/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/sourav-357/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/sourav-357/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sourav-357/leetcode/tree/master/0733-flood-fill) |
@@ -414,6 +415,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0463-island-perimeter](https://github.com/sourav-357/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/sourav-357/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sourav-357/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/sourav-357/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/sourav-357/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/sourav-357/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sourav-357/leetcode/tree/master/0733-flood-fill) |
@@ -431,6 +433,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/sourav-357/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sourav-357/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/sourav-357/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sourav-357/leetcode/tree/master/0695-max-area-of-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sourav-357/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sourav-357/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -444,6 +447,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0332-reconstruct-itinerary](https://github.com/sourav-357/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/sourav-357/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sourav-357/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/sourav-357/leetcode/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/sourav-357/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sourav-357/leetcode/tree/master/0841-keys-and-rooms) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sourav-357/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
