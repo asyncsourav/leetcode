@@ -253,6 +253,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0208-implement-trie-prefix-tree](https://github.com/sourav-357/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/sourav-357/leetcode/tree/master/0454-4sum-ii) |
+| [0535-encode-and-decode-tinyurl](https://github.com/sourav-357/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
 | [0690-employee-importance](https://github.com/sourav-357/leetcode/tree/master/0690-employee-importance) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
@@ -302,6 +303,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0208-implement-trie-prefix-tree](https://github.com/sourav-357/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/sourav-357/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0341-flatten-nested-list-iterator](https://github.com/sourav-357/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0535-encode-and-decode-tinyurl](https://github.com/sourav-357/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2276-count-integers-in-intervals](https://github.com/sourav-357/leetcode/tree/master/2276-count-integers-in-intervals) |
 ## Data Stream
@@ -335,6 +337,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0332-reconstruct-itinerary](https://github.com/sourav-357/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/sourav-357/leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/sourav-357/leetcode/tree/master/0402-remove-k-digits) |
+| [0535-encode-and-decode-tinyurl](https://github.com/sourav-357/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/sourav-357/leetcode/tree/master/0784-letter-case-permutation) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sourav-357/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -581,4 +584,8 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sourav-357/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/sourav-357/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
