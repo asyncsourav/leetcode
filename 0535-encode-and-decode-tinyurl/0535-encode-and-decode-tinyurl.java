@@ -2,7 +2,7 @@ public class Codec {
     HashMap<String, String> map = new HashMap<>();
 
     public String encode(String longUrl) {
-        String key = "http://lc/" + map.size();
+        String key = "" + longUrl.hashCode();
         map.put(key, longUrl);
 
         return key;
