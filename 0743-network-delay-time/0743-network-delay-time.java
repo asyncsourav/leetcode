@@ -2,7 +2,7 @@ class Solution {
     public int networkDelayTime(int[][] times, int n, int src) {
         
         List<List<int[]>> adj = new ArrayList<>();
-        
+
         for (int i = 0; i < n; i++) {
             adj.add(new ArrayList<>());
         }
@@ -22,8 +22,9 @@ class Solution {
             if (t == Integer.MAX_VALUE)
                 return -1;
 
-            res = Math.max(res, t);
+            res = Math.max(t, res);
         }
+
         return res;
     }
 
