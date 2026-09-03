@@ -227,6 +227,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0032-longest-valid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/sourav-357/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sourav-357/leetcode/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/sourav-357/leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/sourav-357/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourav-357/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sourav-357/leetcode/tree/master/0139-word-break) |
@@ -329,6 +330,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0005-longest-palindromic-substring](https://github.com/sourav-357/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sourav-357/leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/sourav-357/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/sourav-357/leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/sourav-357/leetcode/tree/master/0139-word-break) |
