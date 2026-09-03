@@ -237,6 +237,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0526-beautiful-arrangement](https://github.com/sourav-357/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/sourav-357/leetcode/tree/master/0542-01-matrix) |
 | [1140-stone-game-ii](https://github.com/sourav-357/leetcode/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/sourav-357/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/sourav-357/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sourav-357/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
@@ -343,6 +344,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/sourav-357/leetcode/tree/master/0784-letter-case-permutation) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sourav-357/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [1143-longest-common-subsequence](https://github.com/sourav-357/leetcode/tree/master/1143-longest-common-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sourav-357/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sourav-357/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Indexed Tree
@@ -597,4 +599,8 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sourav-357/leetcode/tree/master/0743-network-delay-time) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/sourav-357/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
