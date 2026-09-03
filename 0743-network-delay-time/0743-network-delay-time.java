@@ -16,8 +16,8 @@ class Solution {
         }
 
         int[] time = dijkstra(src - 1, n, adj);
-        int res = Integer.MIN_VALUE;
 
+        int res = Integer.MIN_VALUE;
         for (int t : time) {
             if (t == Integer.MAX_VALUE)
                 return -1;
@@ -28,10 +28,8 @@ class Solution {
         return res;
     }
 
-
     private int[] dijkstra(int src, int n, List<List<int[]>> adj) {
 
-        // pair -> (node, time) -> increasing order of time
         PriorityQueue<int[]> pq = new PriorityQueue<>(
             new Comparator<int[]>() {
                 public int compare(int[] p1, int[] p2) {
