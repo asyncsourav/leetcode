@@ -1,3 +1,4 @@
+
 class Solution {
     public int jobScheduling(int[] startTime, int[] endTime, int[] profit) {
 
@@ -12,49 +13,31 @@ class Solution {
 
         Arrays.sort(jobs, (a, b) -> Integer.compare(a[0], b[0]));
 
+        // dp[i] = maximum profit we can earn starting from job i
         int[] dp = new int[n];
 
         for (int i = n - 1; i >= 0; i--) {
-            int start = jobs[i][0];
-            int end = jobs[i][1];
-            int currentProfit = jobs[i][2];
+            int take = jobs[i][2];
 
-            // Find the first job whose start time >= current job's end time
-            int nextJob = findNextJob(jobs, end, i + 1);
+            // Find the next non-overlapping job
+            for (int j = i + 1; j < n; j++) {
 
-            int take = currentProfit;
-
-            if (nextJob < n) {
-                take += dp[nextJob];
+                if (jobs[j][0] >= jobs[i][1]) {
+                    take += dp[j];
+                    break;
+                }
             }
 
-            // Option 1: take current job
-            // Option 2: skip current job
-            int skip = (i + 1 < n) ? dp[i + 1] : 0;
+            // Skip current job
+            int skip = 0;
+
+            if (i + 1 < n) {
+                skip = dp[i + 1];
+            }
 
             dp[i] = Math.max(take, skip);
         }
 
         return dp[0];
-    }
-
-    private int findNextJob(int[][] jobs, int endTime, int left) {
-
-        int right = jobs.length - 1;
-        int answer = jobs.length;
-
-        while (left <= right) {
-
-            int mid = left + (right - left) / 2;
-
-            if (jobs[mid][0] >= endTime) {
-                answer = mid;
-                right = mid - 1;
-            } else {
-                left = mid + 1;
-            }
-        }
-
-        return answer;
     }
 }
