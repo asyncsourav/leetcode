@@ -135,6 +135,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1851-minimum-interval-to-include-each-query](https://github.com/sourav-357/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/sourav-357/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [3903-smallest-stable-index-i](https://github.com/sourav-357/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
 | ------- |
@@ -539,6 +540,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1109-corporate-flight-bookings](https://github.com/sourav-357/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/sourav-357/leetcode/tree/master/1140-stone-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [3903-smallest-stable-index-i](https://github.com/sourav-357/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
