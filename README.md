@@ -96,6 +96,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0228-summary-ranges](https://github.com/sourav-357/leetcode/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/sourav-357/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/sourav-357/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/sourav-357/leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sourav-357/leetcode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/sourav-357/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/sourav-357/leetcode/tree/master/0332-reconstruct-itinerary) |
@@ -238,6 +239,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0139-word-break](https://github.com/sourav-357/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sourav-357/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/sourav-357/leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sourav-357/leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/sourav-357/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0526-beautiful-arrangement](https://github.com/sourav-357/leetcode/tree/master/0526-beautiful-arrangement) |
