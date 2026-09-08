@@ -197,6 +197,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1140-stone-game-ii](https://github.com/sourav-357/leetcode/tree/master/1140-stone-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [3870-count-commas-in-range](https://github.com/sourav-357/leetcode/tree/master/3870-count-commas-in-range) |
 ## Sorting
 |  |
 | ------- |
