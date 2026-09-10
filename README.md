@@ -16,6 +16,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sourav-357/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sourav-357/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1382-balance-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sourav-357/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sourav-357/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -68,6 +70,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sourav-357/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sourav-357/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sourav-357/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
 | ------- |
