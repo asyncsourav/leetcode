@@ -136,6 +136,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1222-queens-that-can-attack-the-king](https://github.com/sourav-357/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sourav-357/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1584-min-cost-to-connect-all-points](https://github.com/sourav-357/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sourav-357/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/sourav-357/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
@@ -475,6 +476,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0684-redundant-connection](https://github.com/sourav-357/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sourav-357/leetcode/tree/master/0695-max-area-of-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sourav-357/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/sourav-357/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sourav-357/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -492,6 +494,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0841-keys-and-rooms](https://github.com/sourav-357/leetcode/tree/master/0841-keys-and-rooms) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sourav-357/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sourav-357/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1584-min-cost-to-connect-all-points](https://github.com/sourav-357/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/sourav-357/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sourav-357/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -625,4 +628,20 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/sourav-357/leetcode/tree/master/1143-longest-common-subsequence) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/sourav-357/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/sourav-357/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/sourav-357/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/sourav-357/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
