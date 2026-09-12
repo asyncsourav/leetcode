@@ -7,7 +7,9 @@ class Solution {
         price[src] = 0;
 
         for (int i = 0; i <= k; i++) {
+
             int[] temp = price.clone();
+            boolean isChanged = false;
 
             for (int[] flight : flights) {
                     
@@ -17,9 +19,12 @@ class Solution {
 
                 if (price[from] != Integer.MAX_VALUE) {
                     temp[to] = Math.min(temp[to], price[from] + cost);
+                    isChanged = true;
                 }
             }
+
             price = temp;
+            if (!isChanged) break;
         }
 
         return price[dst] == Integer.MAX_VALUE ? -1 : price[dst];
