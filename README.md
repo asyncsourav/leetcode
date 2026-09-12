@@ -85,6 +85,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0047-permutations-ii](https://github.com/sourav-357/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sourav-357/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sourav-357/leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/sourav-357/leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/sourav-357/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sourav-357/leetcode/tree/master/0090-subsets-ii) |
@@ -248,6 +249,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0032-longest-valid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/sourav-357/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sourav-357/leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/sourav-357/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sourav-357/leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/sourav-357/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourav-357/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -428,6 +430,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [0036-valid-sudoku](https://github.com/sourav-357/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sourav-357/leetcode/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/sourav-357/leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/sourav-357/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
