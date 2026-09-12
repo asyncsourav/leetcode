@@ -1,37 +1,29 @@
 class Solution {
-    Boolean[][] dp;
-
     public boolean canPartition(int[] nums) {
-        
-        int sum = 0;
+
+        int total = 0;
         for (int num : nums) {
-            sum += num;
+            total += num;
         }
 
-        if (sum %2 != 0)
+        if (total % 2 != 0)
             return false;
 
-        dp = new Boolean[nums.length][sum/2 + 1];
-        return solve(nums, sum/2, 0);
-    }
+        int target = total / 2;
 
-    private boolean solve(int[] nums, int sum, int idx) {
+        boolean[] dp = new boolean[target + 1];
+        dp[0] = true;
 
-        if (sum == 0)
-            return true;
+        for (int num : nums) {
 
-        if (idx == nums.length)
-            return false;
+            for (int sum = target; sum >= num; sum--) {
+                dp[sum] = dp[sum] || dp[sum - num];
+            }
 
-        if (dp[idx][sum] != null)
-            return dp[idx][sum];
+            if (dp[target])
+                return true;
+        }
 
-        boolean notTake = solve(nums, sum, idx + 1);
-        boolean take = false;
-
-        if (nums[idx] <= sum)
-            take = solve(nums, sum - nums[idx], idx + 1);
-
-        return dp[idx][sum] = take || notTake;
+        return dp[target];
     }
 }
