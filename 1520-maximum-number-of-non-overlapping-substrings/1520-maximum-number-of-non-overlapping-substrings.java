@@ -33,7 +33,6 @@ class Solution {
                     valid = false;
                     break;
                 }
-
                 r = Math.max(r, last[current]);
             }
 
