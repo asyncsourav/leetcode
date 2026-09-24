@@ -154,6 +154,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sourav-357/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sourav-357/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/sourav-357/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sourav-357/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/sourav-357/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sourav-357/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
@@ -220,6 +221,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [3525-find-x-value-of-array-ii](https://github.com/sourav-357/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sourav-357/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sourav-357/leetcode/tree/master/3870-count-commas-in-range) |
 ## Sorting
 |  |
