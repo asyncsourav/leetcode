@@ -38,6 +38,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0695-max-area-of-island](https://github.com/sourav-357/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sourav-357/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sourav-357/leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/sourav-357/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sourav-357/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/sourav-357/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sourav-357/leetcode/tree/master/0841-keys-and-rooms) |
@@ -501,6 +502,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0695-max-area-of-island](https://github.com/sourav-357/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sourav-357/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sourav-357/leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/sourav-357/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sourav-357/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/sourav-357/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sourav-357/leetcode/tree/master/0841-keys-and-rooms) |
@@ -518,6 +520,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0547-number-of-provinces](https://github.com/sourav-357/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sourav-357/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sourav-357/leetcode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/sourav-357/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sourav-357/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sourav-357/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sourav-357/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -533,6 +536,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0547-number-of-provinces](https://github.com/sourav-357/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sourav-357/leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sourav-357/leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/sourav-357/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sourav-357/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/sourav-357/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sourav-357/leetcode/tree/master/0841-keys-and-rooms) |
@@ -700,4 +704,12 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sourav-357/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sourav-357/leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sourav-357/leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
