@@ -147,6 +147,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1222-queens-that-can-attack-the-king](https://github.com/sourav-357/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sourav-357/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1436-destination-city](https://github.com/sourav-357/leetcode/tree/master/1436-destination-city) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sourav-357/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sourav-357/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sourav-357/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -308,6 +309,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sourav-357/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/sourav-357/leetcode/tree/master/0997-find-the-town-judge) |
+| [1436-destination-city](https://github.com/sourav-357/leetcode/tree/master/1436-destination-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sourav-357/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sourav-357/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2402-meeting-rooms-iii](https://github.com/sourav-357/leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -405,6 +407,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0940-distinct-subsequences-ii](https://github.com/sourav-357/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sourav-357/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1143-longest-common-subsequence](https://github.com/sourav-357/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1436-destination-city](https://github.com/sourav-357/leetcode/tree/master/1436-destination-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sourav-357/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sourav-357/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sourav-357/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
