@@ -1,43 +1,44 @@
 class Solution {
     public int minReorder(int n, int[][] connections) {
 
-        List<List<int[]>> graph = buildGraph(n, connections);
-        boolean[] visited = new boolean[n];
-        return dfs(graph, 0, visited);
-    }
-
-    static List<List<int[]>> buildGraph(int n, int[][] connections) {
         List<List<int[]>> graph = new ArrayList<>();
-
         for (int i = 0; i < n; i++) {
             graph.add(new ArrayList<>());
         }
 
-        for (int[] road : connections) {
-            int from = road[0];
-            int to = road[1];
+        for (int[] connection : connections) {
+            int from = connection[0];
+            int to = connection[1];
 
             graph.get(from).add(new int[]{to, 1});
             graph.get(to).add(new int[]{from, 0});
         }
 
-        return graph;
-    }
+        boolean[] visited = new boolean[n];
+        Queue<Integer> queue = new LinkedList<>();
 
-    static int dfs(List<List<int[]>> graph, int node, boolean[] visited) {
-        visited[node] = true;
+        queue.offer(0);
+        visited[0] = true;
+
         int count = 0;
 
-        for (int[] edge : graph.get(node)) {
-            int next = edge[0];
-            int cost = edge[1];
+        while (!queue.isEmpty()) {
+            int city = queue.poll();
 
-            if (!visited[next]) {
-                count += cost;
-                count += dfs(graph, next, visited);
+            for (int[] edge : graph.get(city)) {
+                int nextCity = edge[0];
+                int cost = edge[1];
+
+                if (!visited[nextCity]) {
+
+                    visited[nextCity] = true;
+                    count += cost;
+                    queue.offer(nextCity);
+                }
             }
         }
 
         return count;
     }
+     
 }
