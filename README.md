@@ -45,6 +45,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sourav-357/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sourav-357/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sourav-357/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sourav-357/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sourav-357/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -516,6 +517,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1091-shortest-path-in-binary-matrix](https://github.com/sourav-357/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/sourav-357/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sourav-357/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sourav-357/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sourav-357/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/sourav-357/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union-Find
@@ -550,6 +552,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0841-keys-and-rooms](https://github.com/sourav-357/leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/sourav-357/leetcode/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sourav-357/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sourav-357/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sourav-357/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sourav-357/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/sourav-357/leetcode/tree/master/1791-find-center-of-star-graph) |
