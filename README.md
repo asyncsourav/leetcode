@@ -162,6 +162,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sourav-357/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/sourav-357/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sourav-357/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/sourav-357/leetcode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Stack
 |  |
 | ------- |
@@ -316,6 +317,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sourav-357/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2402-meeting-rooms-iii](https://github.com/sourav-357/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sourav-357/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/sourav-357/leetcode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -622,6 +624,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sourav-357/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/sourav-357/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sourav-357/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/sourav-357/leetcode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
