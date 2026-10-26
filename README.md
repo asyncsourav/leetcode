@@ -262,6 +262,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
 | [1051-height-checker](https://github.com/sourav-357/leetcode/tree/master/1051-height-checker) |
+| [1079-letter-tile-possibilities](https://github.com/sourav-357/leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -314,6 +315,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sourav-357/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/sourav-357/leetcode/tree/master/0997-find-the-town-judge) |
+| [1079-letter-tile-possibilities](https://github.com/sourav-357/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1436-destination-city](https://github.com/sourav-357/leetcode/tree/master/1436-destination-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sourav-357/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sourav-357/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -413,6 +415,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0784-letter-case-permutation](https://github.com/sourav-357/leetcode/tree/master/0784-letter-case-permutation) |
 | [0940-distinct-subsequences-ii](https://github.com/sourav-357/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sourav-357/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [1079-letter-tile-possibilities](https://github.com/sourav-357/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1143-longest-common-subsequence](https://github.com/sourav-357/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1436-destination-city](https://github.com/sourav-357/leetcode/tree/master/1436-destination-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sourav-357/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -451,6 +454,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0526-beautiful-arrangement](https://github.com/sourav-357/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/sourav-357/leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/sourav-357/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1079-letter-tile-possibilities](https://github.com/sourav-357/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1219-path-with-maximum-gold](https://github.com/sourav-357/leetcode/tree/master/1219-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
