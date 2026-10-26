@@ -135,6 +135,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0860-lemonade-change](https://github.com/sourav-357/leetcode/tree/master/0860-lemonade-change) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sourav-357/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/sourav-357/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0986-interval-list-intersections](https://github.com/sourav-357/leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/sourav-357/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/sourav-357/leetcode/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sourav-357/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -367,6 +368,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0295-find-median-from-data-stream](https://github.com/sourav-357/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sourav-357/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
+| [0986-interval-list-intersections](https://github.com/sourav-357/leetcode/tree/master/0986-interval-list-intersections) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sourav-357/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sourav-357/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Design
@@ -436,6 +438,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Sweep Line
 |  |
 | ------- |
+| [0986-interval-list-intersections](https://github.com/sourav-357/leetcode/tree/master/0986-interval-list-intersections) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sourav-357/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Backtracking
 |  |
