@@ -121,6 +121,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sourav-357/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/sourav-357/leetcode/tree/master/0454-4sum-ii) |
 | [0463-island-perimeter](https://github.com/sourav-357/leetcode/tree/master/0463-island-perimeter) |
+| [0491-non-decreasing-subsequences](https://github.com/sourav-357/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/sourav-357/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/sourav-357/leetcode/tree/master/0542-01-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sourav-357/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -309,6 +310,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0208-implement-trie-prefix-tree](https://github.com/sourav-357/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/sourav-357/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/sourav-357/leetcode/tree/master/0454-4sum-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/sourav-357/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sourav-357/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
 | [0690-employee-importance](https://github.com/sourav-357/leetcode/tree/master/0690-employee-importance) |
@@ -451,6 +453,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0216-combination-sum-iii](https://github.com/sourav-357/leetcode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/sourav-357/leetcode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0491-non-decreasing-subsequences](https://github.com/sourav-357/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/sourav-357/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/sourav-357/leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/sourav-357/leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -461,6 +464,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [0078-subsets](https://github.com/sourav-357/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sourav-357/leetcode/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/sourav-357/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/sourav-357/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/sourav-357/leetcode/tree/master/0784-letter-case-permutation) |
 ## Matrix
