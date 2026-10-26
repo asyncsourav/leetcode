@@ -2,31 +2,29 @@ class Solution {
     public List<List<Integer>> findSubsequences(int[] nums) {
         
         List<List<Integer>> ans = new ArrayList<>();
-        backtrack(nums, 0, new ArrayList<>(), ans);
+        backtrack(nums, ans, new ArrayList<>(), 0);
         return ans;
     }
 
-    private void backtrack(int[] nums, int start, 
-                        List<Integer> curr, 
-                        List<List<Integer>> ans) {
+    private void backtrack(int[] nums, List<List<Integer>> ans,
+                        List<Integer> curr, int start) {
         
-        if (curr.size() >= 2)
+        if (curr.size() >= 2) 
             ans.add(new ArrayList<>(curr));
 
-        Set<Integer> seen = new HashSet<>();
+        boolean[] used = new boolean[201];
 
         for (int i = start; i < nums.length; i++) {
-            if (seen.contains(nums[i]))
-                continue;
 
-            if (!curr.isEmpty() && nums[i] < curr.get(curr.size() - 1))
-                continue;
+            if (!used[nums[i] + 100] && 
+                (curr.isEmpty() || nums[i] >= curr.get(curr.size() - 1))) {
+                
+                curr.add(nums[i]);
+                used[nums[i] + 100] = true;
 
-            seen.add(nums[i]);
-            curr.add(nums[i]);
-
-            backtrack(nums, i + 1, curr, ans);
-            curr.remove(curr.size() - 1); 
+                backtrack(nums, ans, curr, i + 1);
+                curr.remove(curr.size() - 1);
+            }
         }
     }
 }
