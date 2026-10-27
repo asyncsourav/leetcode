@@ -68,6 +68,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1382-balance-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sourav-357/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sourav-357/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/sourav-357/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sourav-357/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
@@ -162,6 +163,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1851-minimum-interval-to-include-each-query](https://github.com/sourav-357/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/sourav-357/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/sourav-357/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2402-meeting-rooms-iii](https://github.com/sourav-357/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sourav-357/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sourav-357/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -262,6 +264,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sourav-357/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sourav-357/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/sourav-357/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/sourav-357/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2285-maximum-total-importance-of-roads](https://github.com/sourav-357/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2402-meeting-rooms-iii](https://github.com/sourav-357/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sourav-357/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -330,6 +333,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1436-destination-city](https://github.com/sourav-357/leetcode/tree/master/1436-destination-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sourav-357/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sourav-357/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/sourav-357/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2402-meeting-rooms-iii](https://github.com/sourav-357/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sourav-357/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/sourav-357/leetcode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
@@ -653,6 +657,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sourav-357/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sourav-357/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/sourav-357/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3903-smallest-stable-index-i](https://github.com/sourav-357/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sourav-357/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/sourav-357/leetcode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
@@ -697,6 +702,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Ordered Set
 |  |
 | ------- |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/sourav-357/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2276-count-integers-in-intervals](https://github.com/sourav-357/leetcode/tree/master/2276-count-integers-in-intervals) |
 ## Manacher
 |  |
