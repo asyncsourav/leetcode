@@ -1,54 +1,47 @@
 class Solution {
     public String largestMerge(String word1, String word2) {
-        
-        int i = 0; // word 1
-        int j = 0; // word 2
+        StringBuilder sb=new StringBuilder();
+        char[] ch1=word1.toCharArray();
+        char[] ch2=word2.toCharArray();
+        int len1=ch1.length;
+        int len2=ch2.length;
 
-        StringBuilder merge = new StringBuilder();
-
-        while (i < word1.length() && j < word2.length()) {
-
-            if (word1.charAt(i) > word2.charAt(j))
-                merge.append(word1.charAt(i++));
-
-            else if (word1.charAt(i) < word2.charAt(j))
-                merge.append(word2.charAt(j++));
-
-            else if (word1.charAt(i) == word2.charAt(j)) {
-                int word = check(word1, word2, i, j);
-
-                if (word == 1)
-                    merge.append(word1.charAt(i++));
-                else 
-                    merge.append(word2.charAt(j++));
+        int i=0;
+        int j=0;
+        while (i<len1 && j<len2) {
+            if (ch1[i]==ch2[j]) {
+                if (check(ch1,ch2,i,j)) {
+                    sb.append(ch2[j]);
+                    j++;
+                } else {
+                    sb.append(ch1[i]);
+                    i++;
+                }
+            } else if (ch1[i]>ch2[j]) {
+                sb.append(ch1[i]);
+                i++;
+            } else {
+                sb.append(ch2[j]);
+                j++;
             }
         }
 
-        while (i < word1.length()) {
-            merge.append(word1.charAt(i++));
-        }
+        sb.append(word1.substring(i));
+        sb.append(word2.substring(j));
 
-        while (j < word2.length()) {
-            merge.append(word2.charAt(j++));
-        }
-
-        return merge.toString();
+        return sb.toString();
     }
 
-    private int check(String word1, String word2, int i, int j) {
+    boolean check(char[] ch1, char[] ch2, int i, int j) {
+        int len1=ch1.length;
+        int len2=ch2.length;
 
-        while (i < word1.length() && j < word2.length()) {
-
-            if (word1.charAt(i) > word2.charAt(j)) 
-                return 1;
-
-            else if (word1.charAt(i) < word2.charAt(j)) 
-                return 2;
-            
+        while (i<len1 && j<len2 && ch1[i]==ch2[j]) {
             i++;
             j++;
         }
-
-        return (i == word1.length()) ? 2 : 1;
+        if (i==len1) return true;
+        if (j==len2) return false;
+        return ch1[i]<ch2[j];
     }
 }
