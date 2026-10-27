@@ -8,6 +8,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sourav-357/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/sourav-357/leetcode/tree/master/0226-invert-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sourav-357/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/sourav-357/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0690-employee-importance](https://github.com/sourav-357/leetcode/tree/master/0690-employee-importance) |
@@ -27,6 +28,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sourav-357/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sourav-357/leetcode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/sourav-357/leetcode/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/sourav-357/leetcode/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/sourav-357/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0341-flatten-nested-list-iterator](https://github.com/sourav-357/leetcode/tree/master/0341-flatten-nested-list-iterator) |
@@ -71,6 +73,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sourav-357/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/sourav-357/leetcode/tree/master/0226-invert-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sourav-357/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sourav-357/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -518,6 +521,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sourav-357/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sourav-357/leetcode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/sourav-357/leetcode/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/sourav-357/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/sourav-357/leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/sourav-357/leetcode/tree/master/0322-coin-change) |
