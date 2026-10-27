@@ -63,6 +63,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0701-insert-into-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sourav-357/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sourav-357/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sourav-357/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sourav-357/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sourav-357/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -153,6 +154,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1219-path-with-maximum-gold](https://github.com/sourav-357/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/sourav-357/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sourav-357/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sourav-357/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1436-destination-city](https://github.com/sourav-357/leetcode/tree/master/1436-destination-city) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sourav-357/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -497,6 +499,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1162-as-far-from-land-as-possible](https://github.com/sourav-357/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/sourav-357/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/sourav-357/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sourav-357/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Bitmask
 |  |
 | ------- |
@@ -644,6 +647,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1094-car-pooling](https://github.com/sourav-357/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/sourav-357/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/sourav-357/leetcode/tree/master/1140-stone-game-ii) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sourav-357/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sourav-357/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/sourav-357/leetcode/tree/master/3903-smallest-stable-index-i) |
