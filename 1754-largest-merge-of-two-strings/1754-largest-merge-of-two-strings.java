@@ -1,47 +1,56 @@
 class Solution {
     public String largestMerge(String word1, String word2) {
-        StringBuilder sb=new StringBuilder();
-        char[] ch1=word1.toCharArray();
-        char[] ch2=word2.toCharArray();
-        int len1=ch1.length;
-        int len2=ch2.length;
+        
+        int m = word1.length();
+        int n = word2.length();
 
-        int i=0;
-        int j=0;
-        while (i<len1 && j<len2) {
-            if (ch1[i]==ch2[j]) {
-                if (check(ch1,ch2,i,j)) {
-                    sb.append(ch2[j]);
-                    j++;
-                } else {
-                    sb.append(ch1[i]);
-                    i++;
-                }
-            } else if (ch1[i]>ch2[j]) {
-                sb.append(ch1[i]);
-                i++;
-            } else {
-                sb.append(ch2[j]);
-                j++;
+        int i = 0; // word 1
+        int j = 0; // word 2
+
+        StringBuilder sb = new StringBuilder();
+
+        while (i < m && j < n) {
+
+            if (word1.charAt(i) > word2.charAt(j))
+                sb.append(word1.charAt(i++));
+
+            else if (word1.charAt(i) < word2.charAt(j))
+                sb.append(word2.charAt(j++));
+
+            else {
+                if (check(word1, word2, m, n, i, j) == 1)
+                    sb.append(word1.charAt(i++));
+                else
+                    sb.append(word2.charAt(j++));
             }
         }
 
-        sb.append(word1.substring(i));
-        sb.append(word2.substring(j));
+        while (i < m) {
+            sb.append(word1.charAt(i++));
+        }
+
+        while (j < n) {
+            sb.append(word2.charAt(j++));
+        }
 
         return sb.toString();
     }
 
-    boolean check(char[] ch1, char[] ch2, int i, int j) {
-        int len1=ch1.length;
-        int len2=ch2.length;
-
-        while (i<len1 && j<len2 && ch1[i]==ch2[j]) {
+    private int check(String word1, String word2, 
+                    int m, int n, int i, int j) {
+        
+        while (i < m && j < n && 
+                word1.charAt(i) == word2.charAt(j)) {
+            
             i++;
             j++;
         }
-        if (i==len1) return true;
-        if (j==len2) return false;
-        return ch1[i]<ch2[j];
+
+        if (i == m) 
+            return 2;
+        else if (j == n)
+            return 1;
+
+        return (word1.charAt(i) > word2.charAt(j)) ? 1 : 2;
     }
 }
