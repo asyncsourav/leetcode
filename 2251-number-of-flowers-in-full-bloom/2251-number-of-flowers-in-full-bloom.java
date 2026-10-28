@@ -1,57 +1,60 @@
 class Solution {
     public int[] fullBloomFlowers(int[][] flowers, int[] people) {
+        
         int n = flowers.length;
 
-        int[] starts = new int[n];
-        int[] ends = new int[n];
+        int[] start = new int[n];
+        int[] end = new int[n];
 
         for (int i = 0; i < n; i++) {
-            starts[i] = flowers[i][0];
-            ends[i] = flowers[i][1];
+            start[i] = flowers[i][0];
+            end[i] = flowers[i][1];
         }
 
-        Arrays.sort(starts);
-        Arrays.sort(ends);
+        Arrays.sort(start);
+        Arrays.sort(end);
 
         int[] ans = new int[people.length];
 
         for (int i = 0; i < people.length; i++) {
-            int s = upperBound(starts, people[i]);
-            int e = lowerBound(ends, people[i]);
+            int a = upper(start, people[i]);
+            int b = lower(end, people[i]);
 
-            ans[i] = s - e;
+            ans[i] = a - b;
         }
 
         return ans;
     }
 
-    int upperBound(int[] arr, int target) {
-        int l = 0, r = arr.length;
+    private int upper(int[] start, int num) {
+        int low = 0;
+        int high = start.length;
 
-        while (l < r) {
-            int mid = l + (r - l) / 2;
+        while (low < high) {
+            int mid = low + (high - low)/2;
 
-            if (arr[mid] <= target)
-                l = mid + 1;
-            else
-                r = mid;
+            if (start[mid] <= num)  
+                low = mid + 1;
+            else 
+                high = mid;
         }
 
-        return l;
+        return low;
     }
 
-    int lowerBound(int[] arr, int target) {
-        int l = 0, r = arr.length;
+    private int lower(int[] end, int num) {
+        int low = 0;
+        int high = end.length;
 
-        while (l < r) {
-            int mid = l + (r - l) / 2;
+        while (low < high) {
+            int mid = low + (high - low)/2;
 
-            if (arr[mid] < target)
-                l = mid + 1;
-            else
-                r = mid;
+            if (end[mid] < num)  
+                low = mid + 1;
+            else 
+                high = mid;
         }
 
-        return l;
+        return low;
     }
 }
