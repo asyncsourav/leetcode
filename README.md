@@ -185,6 +185,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0402-remove-k-digits](https://github.com/sourav-357/leetcode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sourav-357/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0901-online-stock-span](https://github.com/sourav-357/leetcode/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sourav-357/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sourav-357/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/sourav-357/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Monotonic Stack
@@ -221,6 +222,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sourav-357/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/sourav-357/leetcode/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sourav-357/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1029-two-city-scheduling](https://github.com/sourav-357/leetcode/tree/master/1029-two-city-scheduling) |
 | [1382-balance-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sourav-357/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -439,6 +441,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0647-palindromic-substrings](https://github.com/sourav-357/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/sourav-357/leetcode/tree/master/0784-letter-case-permutation) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sourav-357/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/sourav-357/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sourav-357/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1079-letter-tile-possibilities](https://github.com/sourav-357/leetcode/tree/master/1079-letter-tile-possibilities) |
@@ -772,4 +775,8 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/sourav-357/leetcode/tree/master/0785-is-graph-bipartite) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sourav-357/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
