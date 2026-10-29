@@ -135,6 +135,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
 | [0690-employee-importance](https://github.com/sourav-357/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/sourav-357/leetcode/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/sourav-357/leetcode/tree/master/0697-degree-of-an-array) |
 | [0733-flood-fill](https://github.com/sourav-357/leetcode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/sourav-357/leetcode/tree/master/0835-image-overlap) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sourav-357/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -329,6 +330,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0535-encode-and-decode-tinyurl](https://github.com/sourav-357/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
 | [0690-employee-importance](https://github.com/sourav-357/leetcode/tree/master/0690-employee-importance) |
+| [0697-degree-of-an-array](https://github.com/sourav-357/leetcode/tree/master/0697-degree-of-an-array) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sourav-357/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/sourav-357/leetcode/tree/master/0997-find-the-town-judge) |
