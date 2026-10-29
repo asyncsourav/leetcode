@@ -98,6 +98,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0078-subsets](https://github.com/sourav-357/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sourav-357/leetcode/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sourav-357/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourav-357/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/sourav-357/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/sourav-357/leetcode/tree/master/0134-gas-station) |
@@ -287,6 +288,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0064-minimum-path-sum](https://github.com/sourav-357/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sourav-357/leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/sourav-357/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sourav-357/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourav-357/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sourav-357/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
