@@ -450,6 +450,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sourav-357/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1754-largest-merge-of-two-strings](https://github.com/sourav-357/leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sourav-357/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/sourav-357/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sourav-357/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sourav-357/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Indexed Tree
@@ -668,6 +669,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sourav-357/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/sourav-357/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/sourav-357/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3903-smallest-stable-index-i](https://github.com/sourav-357/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sourav-357/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/sourav-357/leetcode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
