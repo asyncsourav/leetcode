@@ -389,6 +389,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sourav-357/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/sourav-357/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/sourav-357/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0986-interval-list-intersections](https://github.com/sourav-357/leetcode/tree/master/0986-interval-list-intersections) |
 | [1754-largest-merge-of-two-strings](https://github.com/sourav-357/leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sourav-357/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -440,6 +441,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0535-encode-and-decode-tinyurl](https://github.com/sourav-357/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/sourav-357/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/sourav-357/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0784-letter-case-permutation](https://github.com/sourav-357/leetcode/tree/master/0784-letter-case-permutation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sourav-357/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/sourav-357/leetcode/tree/master/0940-distinct-subsequences-ii) |
