@@ -35,6 +35,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0399-evaluate-division](https://github.com/sourav-357/leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/sourav-357/leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/sourav-357/leetcode/tree/master/0547-number-of-provinces) |
+| [0676-implement-magic-dictionary](https://github.com/sourav-357/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/sourav-357/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/sourav-357/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/sourav-357/leetcode/tree/master/0695-max-area-of-island) |
@@ -331,6 +332,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0491-non-decreasing-subsequences](https://github.com/sourav-357/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sourav-357/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
+| [0676-implement-magic-dictionary](https://github.com/sourav-357/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0690-employee-importance](https://github.com/sourav-357/leetcode/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/sourav-357/leetcode/tree/master/0697-degree-of-an-array) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
@@ -401,6 +403,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0295-find-median-from-data-stream](https://github.com/sourav-357/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0341-flatten-nested-list-iterator](https://github.com/sourav-357/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sourav-357/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0676-implement-magic-dictionary](https://github.com/sourav-357/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0901-online-stock-span](https://github.com/sourav-357/leetcode/tree/master/0901-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sourav-357/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2276-count-integers-in-intervals](https://github.com/sourav-357/leetcode/tree/master/2276-count-integers-in-intervals) |
@@ -440,6 +443,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0402-remove-k-digits](https://github.com/sourav-357/leetcode/tree/master/0402-remove-k-digits) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sourav-357/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/sourav-357/leetcode/tree/master/0647-palindromic-substrings) |
+| [0676-implement-magic-dictionary](https://github.com/sourav-357/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/sourav-357/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0784-letter-case-permutation](https://github.com/sourav-357/leetcode/tree/master/0784-letter-case-permutation) |
@@ -530,6 +534,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0139-word-break](https://github.com/sourav-357/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sourav-357/leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/sourav-357/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0676-implement-magic-dictionary](https://github.com/sourav-357/leetcode/tree/master/0676-implement-magic-dictionary) |
 ## Memoization
 |  |
 | ------- |
