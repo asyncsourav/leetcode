@@ -61,6 +61,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourav-357/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/sourav-357/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/sourav-357/leetcode/tree/master/0367-valid-perfect-square) |
+| [0475-heaters](https://github.com/sourav-357/leetcode/tree/master/0475-heaters) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sourav-357/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sourav-357/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -129,6 +130,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sourav-357/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/sourav-357/leetcode/tree/master/0454-4sum-ii) |
 | [0463-island-perimeter](https://github.com/sourav-357/leetcode/tree/master/0463-island-perimeter) |
+| [0475-heaters](https://github.com/sourav-357/leetcode/tree/master/0475-heaters) |
 | [0491-non-decreasing-subsequences](https://github.com/sourav-357/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/sourav-357/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/sourav-357/leetcode/tree/master/0542-01-matrix) |
@@ -263,6 +265,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0406-queue-reconstruction-by-height](https://github.com/sourav-357/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/sourav-357/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sourav-357/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/sourav-357/leetcode/tree/master/0475-heaters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sourav-357/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/sourav-357/leetcode/tree/master/0621-task-scheduler) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sourav-357/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -395,6 +398,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourav-357/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sourav-357/leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/sourav-357/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0475-heaters](https://github.com/sourav-357/leetcode/tree/master/0475-heaters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sourav-357/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/sourav-357/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/sourav-357/leetcode/tree/master/0763-partition-labels) |
