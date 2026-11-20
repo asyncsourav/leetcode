@@ -12,7 +12,7 @@ class Solution {
             boolean isChanged = false;
 
             for (int[] flight : flights) {
-                    
+                
                 int from = flight[0];
                 int to = flight[1];
                 int cost = flight[2];
@@ -24,7 +24,7 @@ class Solution {
             }
 
             price = temp;
-            if (!isChanged) break;
+            if(!isChanged) break;
         }
 
         return price[dst] == Integer.MAX_VALUE ? -1 : price[dst];
