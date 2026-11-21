@@ -3,29 +3,26 @@ class Solution {
         
         if (nums.length == 0)
             return 0;
-            
-        HashSet<Integer> set = new HashSet<>();
-        for (int num : nums) {
-            set.add(num);
-        }
 
-        int longest = 1;
+        Arrays.sort(nums);
 
-        for (int num : set) {
-            
-            if (!set.contains(num - 1)) {
-                int count = 1;
-                int currentno = num;
+        int ans = 1;
+        int curr = 1;
 
-                while (set.contains(currentno + 1)) {
-                    count += 1;
-                    currentno += 1;
-                }
+        for (int i = 1; i < nums.length; i++) {
 
-                longest = Math.max(count, longest);
+            if (nums[i] == nums[i - 1])
+                continue;
+
+            if (nums[i] == nums[i - 1] + 1) {
+                curr += 1;
+            } else {
+                curr = 1;
             }
+
+            ans = Math.max(ans, curr);
         }
 
-        return longest;
+        return ans;
     }
 }
