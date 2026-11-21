@@ -8,6 +8,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sourav-357/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/sourav-357/leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sourav-357/leetcode/tree/master/0226-invert-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sourav-357/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/sourav-357/leetcode/tree/master/0341-flatten-nested-list-iterator) |
@@ -23,6 +24,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [0079-word-search](https://github.com/sourav-357/leetcode/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/sourav-357/leetcode/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/sourav-357/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/sourav-357/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/sourav-357/leetcode/tree/master/0200-number-of-islands) |
@@ -77,6 +79,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sourav-357/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/sourav-357/leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sourav-357/leetcode/tree/master/0226-invert-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sourav-357/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sourav-357/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -555,6 +558,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sourav-357/leetcode/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/sourav-357/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/sourav-357/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/sourav-357/leetcode/tree/master/0133-clone-graph) |
