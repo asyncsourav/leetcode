@@ -1,6 +1,9 @@
+
+import java.util.ArrayList;
+
 class ProductOfNumbers {
 
-    private List<Integer> prefix;
+    ArrayList<Integer> prefix;
 
     public ProductOfNumbers() {
         prefix = new ArrayList<>();
@@ -18,19 +21,12 @@ class ProductOfNumbers {
     }
 
     public int getProduct(int k) {
-        int size = prefix.size();
+        int n = prefix.size();
 
-        if (k >= size) {
+        if (k >= n) {
             return 0;
         }
 
-        return prefix.get(size - 1) / prefix.get(size - 1 - k);
+        return prefix.get(n - 1) / prefix.get(n - 1 - k);
     }
 }
-
-/**
- * Your ProductOfNumbers object will be instantiated and called as such:
- * ProductOfNumbers obj = new ProductOfNumbers();
- * obj.add(num);
- * int param_2 = obj.getProduct(k);
- */
