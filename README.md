@@ -176,6 +176,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/sourav-357/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/sourav-357/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/sourav-357/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/sourav-357/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2402-meeting-rooms-iii](https://github.com/sourav-357/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sourav-357/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sourav-357/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -285,6 +286,7 @@ this repo contains all the leetcode questions that I solve. It's a repo to re ch
 | [1851-minimum-interval-to-include-each-query](https://github.com/sourav-357/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/sourav-357/leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/sourav-357/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/sourav-357/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2285-maximum-total-importance-of-roads](https://github.com/sourav-357/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2402-meeting-rooms-iii](https://github.com/sourav-357/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sourav-357/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
